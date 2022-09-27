@@ -42,7 +42,7 @@
 
 <h2 align="center">Let's Connect!<h2>
 <p align="center">
- <a href="#"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
- <a href="#" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>   
- <a href="#"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'></a> 
+ <a href="https://github.com/kelseythang)"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt='github' height='40'></a>  
+ <a href="https://www.linkedin.com/in/kelsey-thang/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>   
+ <a href="https://medium.com/@kelseythang"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'></a> 
 </p>
