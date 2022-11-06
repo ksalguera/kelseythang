@@ -6,7 +6,7 @@
 <img src="https://www.codecademy.com/resources/blog/content/images/2021/12/7-Tips-to-Help-You-Learn-a-New-Programming-Language-Fast.png">
 <hr>
 
-![Kelsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseythang&show_icons=true&theme=dracula)
+![Kelsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseythang&hide_border=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseythang&layout=compact)
 <br><br>
 <hr>
