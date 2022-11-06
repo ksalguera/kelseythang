@@ -3,9 +3,13 @@
 
 Experienced in Javascript/React and Ruby/Rails.
 
-![Kelsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseythang&hide_border=true&show_icons=true&theme=dracula)
+![Kelsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseythang&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseythang&hide_border=true&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseythang&layout=compact)
+
+## Projects
+
+Coming Soon!
 
 ## Contact Information
 
