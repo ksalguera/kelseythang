@@ -9,9 +9,9 @@ Experienced in Javascript/React and Ruby/Rails.
 
 ## Contact Information
 
-LinkedIn: ![linkedin.com/in/kelsey-thang](https://www.linkedin.com/in/kelsey-thang/)
+LinkedIn: [https://www.linkedin.com/in/kelsey-thang/](https://www.linkedin.com/in/kelsey-thang/)
 
-Medium: ![medium.com/@kelseythang](https://medium.com/@kelseythang)
+Medium: [https://medium.com/@kelseythang](https://medium.com/@kelseythang)
 
 ## Skills
 
