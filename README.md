@@ -6,12 +6,9 @@
 <img src="https://www.codecademy.com/resources/blog/content/images/2021/12/7-Tips-to-Help-You-Learn-a-New-Programming-Language-Fast.png">
 <hr>
 
-
-[![Kelsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseythang&hide=contribs,prs,issues)](https://github.com/kelseythang/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseythang&hide=Procfile&layout=compact)](https://github.com/kelseythang/github-readme-stats)
-
-<br><br><br>
+![Kelsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseythang&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseythang&layout=compact)
+<br><br>
 <hr>
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"><samp> Technologies </samp> </h2>
 <p align="center">
