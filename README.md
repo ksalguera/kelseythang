@@ -1,30 +1,33 @@
 
-# I'm Kelsey
+# Hi, I'm Kelsey Thang! 👩🏽‍💻 Open To Work
 
-Experienced in Javascript/React and Ruby/Rails.
+Welcome to My Page! 
+
+- 🔭 I'm a currently a Senior Cash Analyst working as **Quality Assurance Tester** and **Component Lead** for a new SaaS application at [Simon Property Group](https://www.simon.com/).
+- 📚 I have over **seven years** of experience in the finance and commercial real estate industry working as a financial analyst and am striving to break into tech as a **Rails Engineer**.
+- 🌱 I am exploring open-source projects to contribute to.
+- ⚡ Besides coding, I enjoy video games, collecting TCG cards, and yoga.
+- 💬 You can get in touch with me by messaging me on [LinkedIn](https://www.linkedin.com/in/kelsey-thang/).
 
 ![GitHub Stats](https://github-readme-stats-gamma-two-40.vercel.app/api?username=kelseythang&hide=issues&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-gamma-two-40.vercel.app/api/top-langs?username=kelseythang&layout=compact) 
 
-## Projects
+![Rails](https://img.shields.io/badge/Rails-8A0606?style=flat-square&logo=rubyonrails&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-C80505?style=flat-square&logo=ruby&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-EEE708?style=flat-square&logo=javascript&logoColor=white)
+![Render](https://img.shields.io/badge/Render-16C149?style=flat-square&logo=render&logoColor=white)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-12BBE0?style=flat-square&logo=mui&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-369FDC?style=flat-square&logo=css3&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-3675DC?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-123772?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-091830?style=flat-square&logo=github&logoColor=white)
 
-Coming Soon!
-
-## Contact Information
-
-LinkedIn: [https://www.linkedin.com/in/kelsey-thang/](https://www.linkedin.com/in/kelsey-thang/)
-
-Medium: [https://medium.com/@kelseythang](https://medium.com/@kelseythang)
-
-## Skills
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+## Blog Posts
+- [React and Active Storage in Rails 7](https://medium.com/@kelseythang/react-and-active-storage-in-rails-7-d4425be224d8) (2023-05-15)
+- [Building a RESTful CRUD API with Ruby on Rails](https://medium.com/@kelseythang/building-a-restful-crud-api-with-ruby-on-rails-c4ccd8f7f180) (2023-03-06)
+- [Intro to Ruby Programming](https://medium.com/@kelseythang/intro-to-ruby-programming-c1695c6e4d9c) (2022-12-16)
