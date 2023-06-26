@@ -3,7 +3,7 @@
 
 Welcome to My Page! 
 
-- 🔭 I'm a currently a Senior Cash Analyst working as **Quality Assurance Tester** and **Component Lead** for a new SaaS application at [Simon Property Group](https://www.simon.com/).
+- 🔭 I am currently a Senior Cash Analyst working as **Quality Assurance Tester** and **Component Lead** for a new SaaS application at [Simon Property Group](https://www.simon.com/).
 - 📚 I have over **seven years** of experience in the finance and commercial real estate industry working as a financial analyst and am striving to break into tech as a **Rails Engineer**.
 - 🌱 I am exploring open-source projects to contribute to.
 - ⚡ Besides coding, I enjoy video games, collecting TCG cards, and yoga.
