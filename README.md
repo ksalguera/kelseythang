@@ -9,10 +9,6 @@ Welcome to My Page!
 - ⚡ Besides coding, I enjoy video games, collecting TCG cards, and yoga.
 - 💬 You can get in touch with me by messaging me on [LinkedIn](https://www.linkedin.com/in/kelsey-thang/).
 
-![GitHub Stats](https://updated-github-readme-stats.vercel.app/api?username=kelseythang&hide=issues&count_private=true&show_icons=true)
-
-![Top Langs](https://updated-github-readme-stats.vercel.app/api/top-langs?username=kelseythang&layout=compact)
-
 ![Rails](https://img.shields.io/badge/Rails-8A0606?style=flat-square&logo=rubyonrails&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-C80505?style=flat-square&logo=ruby&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
