@@ -1,10 +1,9 @@
 
-# Hi, I'm Kelsey Thang! 👩🏽‍💻 Open To Work
+# Hi, I'm Kelsey Salguera! 
 
-Welcome to My Page! 
+Welcome to My GitHub! 
 
-- 🔭 I am currently a Senior Cash Analyst working as **Quality Assurance Tester** and **Component Lead** for a new SaaS application at [Simon Property Group](https://www.simon.com/).
-- 📚 I have over **seven years** of experience in the finance and commercial real estate industry working as a financial analyst and am striving to break into tech as a **Rails Engineer**, **Frontend Developer**, or **Fullstack Developer**.
+- 🔭 I am currently a Associate Software Engineer at Activate Care.
 - 🌱 I am exploring open-source projects to contribute to.
 - ⚡ Besides coding, I enjoy video games, collecting TCG cards, and yoga.
 - 💬 You can get in touch with me by messaging me on [LinkedIn](https://www.linkedin.com/in/kelsey-thang/).
