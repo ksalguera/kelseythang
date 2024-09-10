@@ -26,3 +26,11 @@ Welcome to My GitHub!
 - [React and Active Storage in Rails 7](https://medium.com/@kelseythang/react-and-active-storage-in-rails-7-d4425be224d8) (2023-05-15)
 - [Building a RESTful CRUD API with Ruby on Rails](https://medium.com/@kelseythang/building-a-restful-crud-api-with-ruby-on-rails-c4ccd8f7f180) (2023-03-06)
 - [Intro to Ruby Programming](https://medium.com/@kelseythang/intro-to-ruby-programming-c1695c6e4d9c) (2022-12-16)
+
+<details>
+  <summary>⚡ GitHub Stats</summary>
+  
+  ![GitHub Stats](https://github-readme-stats-nine-xi-69.vercel.app/api?username=ksalguera&hide=issues&count_private=true&show_icons=true)
+  
+  ![Top Langs](https://github-readme-stats-nine-xi-69.vercel.app/api/top-langs?username=ksalguera&layout=compact)
+</details>
