@@ -3,7 +3,7 @@
 
 Welcome to My GitHub! 
 
-- 🔭 I am currently a Associate Software Engineer at Activate Care.
+- 🔭 I am currently an Associate Software Engineer at Activate Care.
 - 🌱 I am exploring open-source projects to contribute to.
 - ⚡ Besides coding, I enjoy video games, collecting TCG cards, and yoga.
 - 💬 You can get in touch with me by messaging me on [LinkedIn](https://www.linkedin.com/in/ksalguera/).
